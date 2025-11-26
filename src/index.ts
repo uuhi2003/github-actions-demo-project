@@ -7,6 +7,7 @@ const app = express();
 let server;
 
 // setup cors.
+//empty line added to check the actions
 
 app.use(
   cors({
